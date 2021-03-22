@@ -15,9 +15,9 @@ int main() {
     int user = 0;
 
     //Creating strings to avoid repetition
-    std::string roc = "1) ✌️Rock\n";
+    std::string roc = "1) 👊️Rock\n";
     std::string pap = "2) ✋Paper\n";
-    std::string sci = "3) ✌️Scissors\n";
+    std::string sci = "3) ✌Scissors\n";
 
 
     std::cout << "====================\n";
